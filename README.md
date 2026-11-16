@@ -1,24 +1,60 @@
+## Olá, eu sou o Lucas 👋
 
-## 🧑‍💻 About Me
+Estudante de **Sistemas de Informação** na **UNIFEBE** e **Aprendiz de Infraestrutura de TI** na **Hiper Software**, em Brusque (SC). Estou construindo meu caminho para me tornar engenheiro de software, aprendendo com projetos reais: do app mobile ao script em Python que resolve um problema de verdade.
 
-- 🎓 Currently studying **Sistemas de Informação** at **Unifebe**
-- 🌱 Exploring paths and building experience
-- 📍 Brusque, Santa Catarina, Brazil
+- 🎓 Sistemas de Informação na UNIFEBE (4ª fase, conclusão prevista em 2028)
+- 💼 Aprendiz de Infraestrutura de TI na Hiper Software, desde 07/2026
+- 🔭 Hoje: criando sites para pequenos negócios de Brusque e evoluindo o SubTrack
+- 🤖 Uso IA no dia a dia de desenvolvimento (Claude Code), sempre buscando entender o código que entra no projeto
+- 🌎 Português nativo · Inglês intermediário (B2)
+- 📍 Brusque, Santa Catarina, Brasil
 
 ---
 
-## 🛠️ Skills
+## 🚀 Projetos em destaque
 
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [**SubTrack**](https://github.com/Baptista00/subtrack) | App mobile de gestão de assinaturas para o mercado brasileiro: autenticação, CRUD de assinaturas, lembretes de renovação e resumo de gastos. Segurança feita com Row Level Security no banco. | React Native · Expo · Supabase · PostgreSQL |
+| [**Prospector**](https://github.com/Baptista00/prospector) | Encontra negócios locais sem site a partir de dados do Google Maps, pontua os melhores alvos e gera uma planilha com link de WhatsApp para abordagem manual. | Python · SerpApi / Google Places |
+| [**Lucas Dev Hub**](https://github.com/Baptista00/devhub) | Painel pessoal de produtividade (sessões de foco, tarefas, metas e notas) pensado para reaproveitar um iPad antigo na mesa. Funciona offline, com dados no navegador. | JavaScript · HTML · CSS |
+| [**Lista de Compras**](https://github.com/Baptista00/lista-compras) | App web responsivo para organizar compras por categoria, com busca, filtros e persistência local, sem frameworks. | JavaScript · HTML · CSS |
+| [**Portfólio**](https://github.com/Baptista00/portfolio) | Meu portfólio pessoal com projetos, experiência e formação. | HTML · CSS |
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-> 📖 Atualmente estudando **JavaScript com foco em Back-End** e **MySQL**
+**Mobile, back-end e dados**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+> 📖 Próximos passos: TypeScript, testes automatizados e fundamentos de back-end (APIs, modelagem de dados).
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Contato
 
 <div align="left">
 
