@@ -1,13 +1,7 @@
 ## Olá, eu sou o Lucas 👋
 
-Estudante de **Sistemas de Informação** na **UNIFEBE** e **Aprendiz de Infraestrutura de TI** na **Hiper Software**, em Brusque (SC). Estou construindo meu caminho para me tornar engenheiro de software, aprendendo com projetos reais: do app mobile ao script em Python que resolve um problema de verdade.
-
-- 🎓 Sistemas de Informação na UNIFEBE (4ª fase, conclusão prevista em 2028)
-- 💼 Aprendiz de Infraestrutura de TI na Hiper Software, desde 07/2026
-- 🔭 Hoje: criando sites para pequenos negócios de Brusque e evoluindo o SubTrack
-- 🤖 Uso IA no dia a dia de desenvolvimento (Claude Code), sempre buscando entender o código que entra no projeto
-- 🌎 Português nativo · Inglês intermediário (B2)
-- 📍 Brusque, Santa Catarina, Brasil
+Estudante de **Sistemas de Informação** na **UNIFEBE**, com foco em **engenharia de software**.
+Atualmente Aprendiz de Infraestrutura de TI na **Hiper Software** · Brusque, SC.
 
 ---
 
@@ -18,8 +12,6 @@ Estudante de **Sistemas de Informação** na **UNIFEBE** e **Aprendiz de Infraes
 | [**SubTrack**](https://github.com/Baptista00/subtrack) | App mobile de gestão de assinaturas para o mercado brasileiro: autenticação, CRUD de assinaturas, lembretes de renovação e resumo de gastos. Segurança feita com Row Level Security no banco. | React Native · Expo · Supabase · PostgreSQL |
 | [**Prospector**](https://github.com/Baptista00/prospector) | Encontra negócios locais sem site a partir de dados do Google Maps, pontua os melhores alvos e gera uma planilha com link de WhatsApp para abordagem manual. | Python · SerpApi / Google Places |
 | [**Lucas Dev Hub**](https://github.com/Baptista00/devhub) | Painel pessoal de produtividade (sessões de foco, tarefas, metas e notas) pensado para reaproveitar um iPad antigo na mesa. Funciona offline, com dados no navegador. | JavaScript · HTML · CSS |
-| [**Lista de Compras**](https://github.com/Baptista00/lista-compras) | App web responsivo para organizar compras por categoria, com busca, filtros e persistência local, sem frameworks. | JavaScript · HTML · CSS |
-| [**Portfólio**](https://github.com/Baptista00/portfolio) | Meu portfólio pessoal com projetos, experiência e formação. | HTML · CSS |
 
 ---
 
