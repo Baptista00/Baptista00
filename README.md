@@ -1,7 +1,8 @@
 ## Olá, eu sou o Lucas 👋
 
-Estudante de **Sistemas de Informação** na **UNIFEBE**, com foco em **engenharia de software**.
-Atualmente Aprendiz de Infraestrutura de TI na **Hiper Software** · Brusque, SC.
+- 🎓 Estudante de **Sistemas de Informação** na **UNIFEBE**
+- 💻 Foco em **engenharia de software**
+- 💼 Aprendiz de Infraestrutura de TI na **Hiper Software**
 
 ---
 
